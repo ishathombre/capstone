@@ -11,4 +11,5 @@ https://drive.google.com/file/d/1--uJR7sNvH5oyCX2A7Qb2SJBGduFHHHf/view?usp=shari
 https://drive.google.com/file/d/1w1P6S-G1mAHSZKgZuhmy78QbJCxX_WHH/view?usp=sharing
 
 
-The GME January and February data are termed as 'stockjandata - Worksheet.csv' and 'stockdatafeb - Worksheet.csv' respectively
+3. The GME January and February data are termed as 'stockjandata - Worksheet.csv' and 'stockdatafeb - Worksheet.csv' respectively
+4. The 'sentiment_analysis_dataset.ipynb' contains the initial code used for setting up the data and finding the sentiment code, as well as the procedure for cleaning the data.
