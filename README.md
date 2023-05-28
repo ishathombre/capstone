@@ -9,3 +9,6 @@ https://drive.google.com/file/d/1--uJR7sNvH5oyCX2A7Qb2SJBGduFHHHf/view?usp=shari
 
 2. February reddit data:
 https://drive.google.com/file/d/1w1P6S-G1mAHSZKgZuhmy78QbJCxX_WHH/view?usp=sharing
+
+
+The GME January and February data are termed as 'stockjandata - Worksheet.csv' and 'stockdatafeb - Worksheet.csv' respectively
